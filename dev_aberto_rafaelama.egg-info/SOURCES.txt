@@ -6,4 +6,6 @@ dev_aberto/dev_aberto.py
 dev_aberto_rafaelama.egg-info/PKG-INFO
 dev_aberto_rafaelama.egg-info/SOURCES.txt
 dev_aberto_rafaelama.egg-info/dependency_links.txt
+dev_aberto_rafaelama.egg-info/requires.txt
 dev_aberto_rafaelama.egg-info/top_level.txt
+scripts/hello.py
